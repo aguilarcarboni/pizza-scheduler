@@ -31,6 +31,13 @@ public class PizzaScheduler {
         currentMinute = 1;
     }
 
+    // Prompt used: "Generate a function to parse 
+    // command line arguments for a Java program
+    // that handles both --key=value and --key 
+    // value formats for the following parameters:
+    // input-file, available-chefs, available-ovens, 
+    // available-drivers, bake-time, 
+    // chef-time, chef-strategy, and chef-quantum"
     private void parseArguments(String[] args) {
         for (int i = 0; i < args.length; i++) {
             String arg = args[i];
