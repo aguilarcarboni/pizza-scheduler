@@ -1,0 +1,10 @@
+Juan,5,15,2
+Maria,3,20,0
+Ashley,10,30,10
+Frank,6,45,6
+Grace,1,5,0
+Gabe,3,30,15
+Diana,2,10,1
+Paul,4,25,12
+Steve,2,15,8
+Lily,1,7,14
